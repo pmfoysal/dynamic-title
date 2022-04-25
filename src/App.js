@@ -19,6 +19,7 @@ export default function App() {
                alignContent: 'center',
                gap: '2rem',
                padding: '3rem',
+               flexWrap: 'wrap',
             }}
          >
             <Link to='/'>HomePage</Link>
